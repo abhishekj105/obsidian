@@ -1,7 +1,7 @@
 ---
 title: "i cant still find my claude search history categorized and updated on obsidian"
 date: 2026-04-01
-time: 20:36
+time: 20:39
 category: Technology
 source: Claude AI
 ---
@@ -95,3 +95,18 @@ That's it — it will:
 - Commit + push everything to GitHub
 
 Let me know once you have the ZIP and I'll help if anything goes wrong.
+
+**USER:** where should i run the command?
+
+**ASSISTANT:** In your **Mac Terminal**. Here's exactly how:
+
+1. Open **Terminal** (press `Cmd + Space`, type `Terminal`, hit Enter)
+
+2. Once your ZIP downloads, run:
+```bash
+python3 "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py" ~/Downloads/claude_export.zip
+```
+
+> Replace `claude_export.zip` with the actual filename of the ZIP you downloaded from Claude.ai.
+
+That's it. The script will print progress as it saves each conversation to Obsidian.
