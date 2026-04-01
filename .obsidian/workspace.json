@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49ccef998ae18cca",
+        "id": "3dc9de9f41a59bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "07279a4e5fcd02f7",
+            "id": "4a7b0a535bf6059f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "07279a4e5fcd02f7",
+  "active": "5d25f58aefeccd38",
   "lastOpenFiles": [
+    "Technology/2026-04-01-Test-Connection.md",
+    "Technology/2026-04-01-i-cant-still-find-my-claude-search-history-categorized-and-u.md",
+    "Finance/2026-03-31-Q4-Budget-Review.md",
     "Claude-AI/Uncategorized",
     "Claude-AI",
     "Legal",
