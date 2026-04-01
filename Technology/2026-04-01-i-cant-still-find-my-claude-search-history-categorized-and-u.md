@@ -1,7 +1,7 @@
 ---
 title: "i cant still find my claude search history categorized and updated on obsidian"
 date: 2026-04-01
-time: 20:45
+time: 20:46
 category: Technology
 source: Claude AI
 ---
@@ -133,3 +133,16 @@ ls ~/Downloads/claude_export.zip/
 ```
 
 Paste what you see and I'll give you the exact command to run.
+
+**USER:** MacBook-Air:~ abhishekjagdale$ ls ~/Downloads/claude_export.zip/
+conversations.json	projects.json
+memories.json		users.json
+MacBook-Air:~ abhishekjagdale$
+
+**ASSISTANT:** It's already extracted. Run this instead:
+
+```bash
+python3 "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py" ~/Downloads/claude_export.zip/conversations.json
+```
+
+**ASSISTANT:** I need to update the script to accept a direct JSON file path too:
