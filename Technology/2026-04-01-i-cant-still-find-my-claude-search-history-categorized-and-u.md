@@ -1,7 +1,7 @@
 ---
 title: "i cant still find my claude search history categorized and updated on obsidian"
 date: 2026-04-01
-time: 20:32
+time: 20:34
 category: Technology
 source: Claude AI
 ---
@@ -47,3 +47,27 @@ Your Obsidian vault and GitHub should now update automatically when each session
 - Check the **Technology** folder in the left sidebar — the note is there: `2026-04-01-i-cant-still-find-my-claude-search-history...`
 
 The file exists on disk and was pushed to GitHub. Obsidian just needs a refresh to pick it up.
+
+**USER:** i want my claude chats history not claude code history on obsidian
+
+**ASSISTANT:** Understood — you want **Claude.ai website chat history** (claude.ai), not Claude Code terminal sessions.
+
+Claude.ai doesn't expose a live API for chat history, but it has a built-in **data export**. Here's the plan:
+
+**How it works:**
+1. You export your chats from Claude.ai (Settings → Export Data → downloads a ZIP)
+2. Run a script that parses the ZIP, auto-categorizes each conversation, and saves them all to Obsidian
+
+Want me to build that script? It would:
+- Accept the exported `.zip` file from Claude.ai
+- Parse all conversations from the JSON inside
+- Auto-categorize each one (Finance, Technology, Business, etc.)
+- Save each conversation as a separate `.md` note in Obsidian
+- Git commit + push to GitHub
+
+To export your data from Claude.ai:
+1. Go to **claude.ai** → click your profile (bottom left)
+2. **Settings** → **Privacy** → **Export Data**
+3. You'll receive a download link via email with a `.zip` file
+
+Do you want me to build the import script now? Once you have the ZIP, you'd just run `python3 import_claude_chats.py your-export.zip` and everything gets saved to Obsidian automatically.
