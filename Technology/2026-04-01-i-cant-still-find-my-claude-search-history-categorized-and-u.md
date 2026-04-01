@@ -1,7 +1,7 @@
 ---
 title: "i cant still find my claude search history categorized and updated on obsidian"
 date: 2026-04-01
-time: 20:39
+time: 20:45
 category: Technology
 source: Claude AI
 ---
@@ -110,3 +110,26 @@ python3 "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py" ~
 > Replace `claude_export.zip` with the actual filename of the ZIP you downloaded from Claude.ai.
 
 That's it. The script will print progress as it saves each conversation to Obsidian.
+
+**USER:** MacBook-Air:~ abhishekjagdale$ python3 "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py" ~/Downloads/claude_export.zip
+
+Parsing: /Users/abhishekjagdale/Downloads/claude_export.zip
+Traceback (most recent call last):
+  File "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py", line 241, in <module>
+    main()
+  File "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py", line 195, in main
+    conversations = parse_zip(zip_path)
+  File "/Users/abhishekjagdale/Desktop/Cloude Finance/import_claude_chats.py", line 86, in parse_zip
+    with zipfile.ZipFile(zip_path, "r") as z:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/zipfile.py", line 1239, in __init__
+    self.fp = io.open(file, filemode)
+IsADirectoryError: [Errno 21] Is a directory: '/Users/abhishekjagdale/Downloads/claude_export.zip'
+MacBook-Air:~ abhishekjagdale$
+
+**ASSISTANT:** The export downloaded as a **folder**, not a ZIP file. Run this to find the actual file inside it:
+
+```bash
+ls ~/Downloads/claude_export.zip/
+```
+
+Paste what you see and I'll give you the exact command to run.
