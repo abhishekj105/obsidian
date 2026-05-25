@@ -1,7 +1,7 @@
 ---
 title: "You are my long-term strategic co-worker, thinking partner, and execution assist"
 date: 2026-05-25
-time: 18:57
+time: 19:00
 category: Technology
 source: Claude AI
 ---
@@ -1807,3 +1807,25 @@ If at any step you disagree, we stop and resolve before moving forward. There is
 2. *A board-composition clause.* As Chairman you want board majority while private. She as CEO needs a board seat. Investor will take 1 seat at angel. So 3-person board: you (Chairman), Kajol (CEO), Investor. Specify this now.
 
 When you've sent it and she's responded, bring me the redline. That's the conversation where the actual founders' agreement gets built.
+
+**USER:** Now just give me a brief to be saved in memory of claude chat history of wisetribes. A brief on the recent developements we just discussed till now
+
+**ASSISTANT:** Saved. Two files updated:
+
+**`wisetribes_strategy.md`** — full snapshot covering:
+- Legal structure (HoldCo + IP transfer plan)
+- Hardware decision (humanoid V1 + Jan 2027 kill-switch criteria)
+- GTM (Path B sequencing — tier-1 CBSE now, government schools as 2027 distribution channel only)
+- Concept refinements (product vs brand promise, real moats vs killed moats)
+- Curriculum gaps (6 items, 30-day fix list)
+- Capital plan (₹25L pilot, 40% conversion target, ₹2–5cr angel Oct–Dec)
+- Founders' arrangement (proposed 65/30/5, reserved matters, 14 June target, advisor mediation)
+- Wise Creator demotion
+- Top 6 open risks
+- 14-day execution checklist
+
+**`MEMORY.md` index** — updated to point to the new file with a one-line summary.
+
+Future conversations will load these automatically. You can ask me "what's the status of the founders' agreement" or "what was the humanoid V2 kill criteria" anytime and I'll have it.
+
+One small thing worth flagging: the strategy file is now the *living* document for Wisetribes decisions. When the founders' agreement gets signed, the equity numbers move from "proposed" to "signed." When the July pilot closes, the conversion rate replaces the target. Tell me to update it after each milestone — don't let it go stale, or future-me will be advising on yesterday's reality.
