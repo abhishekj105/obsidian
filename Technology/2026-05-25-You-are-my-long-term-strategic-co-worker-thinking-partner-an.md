@@ -1,7 +1,7 @@
 ---
 title: "You are my long-term strategic co-worker, thinking partner, and execution assist"
 date: 2026-05-25
-time: 18:44
+time: 18:57
 category: Technology
 source: Claude AI
 ---
@@ -1613,3 +1613,197 @@ Pick one:
 My recommendation: **B**, with the explicit understanding that Path 1 IS the active execution until Q4 2026 closes the angel round. Government schools are a 2027 conversation.
 
 Once you pick, I'll rewrite the brief — for the *final* time — to reflect (a) the curriculum that exists, (b) the path you've chosen, and (c) the honest July pilot scope. After that, we move from concept to execution.
+
+**USER:** Now help me design the content for business concept brief to be shared to co-founder
+
+**ASSISTANT:** Good move. This is the right artefact to introduce *before* the founders' agreement — it separates "what are we building" from "how do we share it." If you and Kajol don't agree on the first, the second will collapse. Most founder splits happen because the two people thought they were building different things from year one. A concept brief surfaces that disagreement on paper, in low-stakes language, before money and equity make it expensive.
+
+Two things before the draft:
+
+**1. Tone matters more than content.** You write this with Kajol *as a co-author*, not *as a recipient*. The first sentence should signal: "this is my best draft; tell me what's wrong with it." Otherwise it reads as a fait accompli and she'll either rubber-stamp it (bad — silent disagreement) or push back hard on the form rather than the substance (also bad).
+
+**2. The brief should make her economic upside legible.** She's worked four years with no agreement. She's the public face. If the brief doesn't communicate that her equity, role, and authority are being formalised generously and in writing — *before* you ask her to sign anything legal — the founders' agreement conversation starts with her on the back foot. Don't do that.
+
+Here is the draft. Copy, edit, and share.
+
+---
+
+# WISETRIBES — CONCEPT BRIEF
+*Internal document · Founders' alignment draft · v1*
+*From: Abhishek · To: Kajol · For our discussion before we paper anything*
+
+## Why this document exists
+
+Before we sign a founders' agreement and bring in outside capital, I want us to be in complete agreement — on paper — about what we are building, who it is for, how we will work, and how we will share what we create. This is my honest draft of where I think we are. I want you to mark it up, push back, and tell me where I'm wrong. The signed agreement comes after we agree on this, not before.
+
+---
+
+## What Wisetribes is (in one paragraph)
+
+Wisetribes is India's first NCERT-aligned AI literacy programme for school children in Class 5–10. We deliver a 6-month structured curriculum, browser-based and teacher-facilitated, with the animated character Aira leading content delivery. The premium tier includes WiseBot — a humanoid AI companion deployed in classrooms and (in v2) at home — that makes the relationship between the child and the AI physical, visible, and parent-trusted. We sell to schools and to parents. We begin in tier-1 English-medium CBSE schools where the curriculum is built to fit.
+
+## What Wisetribes is NOT (today)
+
+We are explicit about this because confusion here will cost us.
+
+- **Not a coding bootcamp.** We teach AI thinking, not Python syntax for its own sake.
+- **Not a one-class-and-done programme.** Every relationship begins with a 6-month curriculum and is designed to compound across years.
+- **Not a free product for government schools (yet).** That is a 2027 conversation, after we have paid revenue from tier-1 CBSE and angel capital to fund the multilingual rebuild.
+- **Not a memory-layer infrastructure play for OpenAI/Google.** They will build their own. Our moat is direct family trust, NCERT depth, and India-first execution.
+- **Not a global product.** India-first, Indian context, Indian languages (English now, Hindi + 2 regional in 2027).
+
+## The customer we are building for in 2026
+
+One buyer, one urgency, one channel.
+
+**The buyer:** the Indian parent in a tier-1 city, English-medium CBSE school, with a Class 5–10 child, who watched ChatGPT happen and now feels permanent low-grade anxiety that their child is falling behind on AI.
+
+**The channel:** schools first (principals as distribution), parents second (direct enrolment in the same cities once school presence is established).
+
+**The trigger emotion we sell to:** "I do not know what 'behind on AI' looks like, and I want to outsource that anxiety to people I trust."
+
+Every product decision passes this filter: *does this make a principal in Bangalore more likely to sign a paid contract by September, or a parent in Pune more likely to enrol their child by October?* If neither — defer it.
+
+## The product, in three layers
+
+1. **The Wisetribes Curriculum.** 144 classes across 3 age groups, 12 modules each, NCERT-bound, capstone-driven, AI Project Cycle aligned. This is what you have built. It is genuinely good.
+2. **WiseBot (Hardware v1).** Humanoid AI companion in the classroom. Ships 15 June. Role in v1: physical anchor of the programme, premium-tier differentiator, principal-impressing object. Role in v2: home companion that extends the relationship beyond school. We will decide v2 scope after the July pilot.
+3. **The Parent Layer.** Weekly WhatsApp updates, parent dashboard, transparent child-progress reporting. This is the artefact that drives renewal. We have not yet built it. It is in the July pilot scope.
+
+## The 12-month plan
+
+| Window | What happens | Who leads |
+|---|---|---|
+| Now → 14 June | Founders' agreement signed. IP + brand + domain transferred to WiseClub Ventures Pvt Ltd. Trademark filed. WiseBot v1 production complete. | Both |
+| 15 June → 15 July | July pilot prep — select 5 schools from existing 100+ relationships, lock pricing, finalise WiseBot deployment plan, hire 2 pilot coordinators. | Both |
+| 15 July → 30 September | **The July pilot.** 5 schools paying, ~250 children enrolled, WiseBot deployed, 8-week curriculum + parent dashboard live. ₹25L budget. Conversion target: ≥40% of pilot schools sign annual contract by 30 September. | Kajol leads execution; Abhishek leads PR, parent-channel marketing, capital. |
+| October → December | Angel round. Raise ₹2–5 cr on pilot conversion data + WiseBot deployment evidence + revenue from first parent cohorts. | Abhishek leads. |
+| Jan → June 2027 | Scale to 25–50 paying schools in 6 cities. Begin Hindi + 1 regional language curriculum build for 2027 government-school workstream. | Kajol leads product; Abhishek leads expansion + governance + Wise Creator scoping. |
+
+If the July pilot conversion falls below 25%, we stop, regroup, and rewrite the plan before the angel round. We do not raise on weak evidence.
+
+## Our roles and decision rights
+
+This is the section where we have to be most explicit.
+
+**Kajol — CEO and public Founder of Wisetribes.**
+You lead: product, technology, hardware engineering, curriculum, the team that builds and ships, customer-facing voice. You are the face of Wisetribes externally. You sign customer contracts. You hire and fire the product and engineering team. You own the WiseBot roadmap.
+
+**Abhishek — Chairman and Promoter, backend.**
+I lead: capital strategy, equity, board governance, brand and IP stewardship, strategic partnerships, PR strategy (not delivery), legal and compliance, parent of WiseClub Ventures as the HoldCo, all matters touching Foxscan and future ventures. I do not appear publicly as a Wisetribes founder. By design.
+
+**Decisions that need both of us in writing, irrespective of who runs day-to-day:**
+- Annual budget and any spend above ₹5L outside the approved budget
+- Equity issuance, ESOP allocation, cap-table changes
+- Fundraise terms and investor selection
+- Brand-licensing, partnerships above ₹10L value, or strategic alliances
+- Pivots that change the customer or the core product
+- Key leadership hires (CTO-level, CMO-level, COO-level)
+- M&A, sale of any subsidiary, or shutdown decisions
+
+**Conflict resolution.** If we genuinely disagree on a reserved matter and cannot resolve it in 7 days, we bring in [TBD — a mutually agreed advisor we both respect, named in the founders' agreement] for a non-binding read. If still unresolved, the Chairman's vote carries on capital and structure matters; the CEO's vote carries on product and customer matters. We name this person before we sign.
+
+## How we work
+
+- **Weekly:** 90-minute Monday review. Metrics, blockers, decisions needed.
+- **Monthly:** Half-day strategic review. P&L, pipeline, hiring, capital, brand.
+- **Quarterly:** Full-day reset. Plan, revise, write-up.
+- **Communication:** WhatsApp for daily ops. Email for anything that touches money, equity, customers, hires, or external parties — so we have an audit trail.
+- **Decisions in writing:** Any reserved matter is decided over email, not WhatsApp. No retroactive "you said X." If it isn't in email, it didn't happen.
+- **Disagreement norm:** We say it directly, we don't let it sit. The relationship survives disagreement. It does not survive resentment.
+
+## Money
+
+**Current state.** Abhishek is funding ~₹5L/month from personal capital. Total committed so far: [insert actual number]. Kajol has been working without cash compensation. This is not sustainable past the July pilot.
+
+**Founder compensation, starting 1 July 2026:**
+- Both founders draw a modest fixed monthly stipend from WiseClub Ventures — proposed ₹1L/month each — until the angel round closes.
+- Post angel round, market-rate founder salaries set by the board (us + lead investor). Proposed range: ₹2.5L–4L/month each at seed stage.
+
+**Capital deployed so far is treated as founder loan from Abhishek to WiseClub Ventures**, repayable from the angel round or convertible into equity at founder discretion. We document this in the founders' agreement, not as a side conversation later.
+
+**Going forward:** All Wisetribes spend flows through WiseClub Ventures' bank account. No personal payments by either founder going forward. CA-managed books from 1 June onward.
+
+## Equity, IP, and the founders' agreement
+
+This is the most important section. I want us to be in agreement here before we engage the lawyer.
+
+**Proposed equity split, fully vested over 4 years with 1-year cliff, reverse-vested from cap-table grant date:**
+- Abhishek: **65%** (Promoter, Chairman, capital, IP contribution)
+- Kajol: **30%** (CEO, public founder, product/tech leadership)
+- ESOP pool reserved: **5%** (to be expanded to 10% at angel round, with the additional 5% diluting both founders pro-rata)
+
+I am open to discussing these numbers. My reasoning for the split: I have funded the venture so far, I am consolidating IP that I currently personally own into the company, I bring the capital pipeline and the governance structure. You bring the daily execution, the product, the public face, and the operational risk. The 65/30 reflects this asymmetry today. I welcome your counter.
+
+**IP and brand transfer:** Within 30 days of signing the founders' agreement, I will assign to WiseClub Ventures Pvt Ltd: the wisetribes.in domain, the Wisetribes trademark (filing in progress), the WiseBot brand and design files, the curriculum copyright, and any other IP I currently hold personally relating to the venture. This is not negotiable on my side — it must happen. I'm flagging it here so you know the IP risk you mentioned implicitly is being addressed.
+
+**Departure provisions** (to be detailed in the founders' agreement):
+- Good leaver / bad leaver definitions
+- Vesting acceleration on change-of-control
+- Non-compete: 18 months in Indian K-12 AI education
+- Non-solicit: 24 months on team and customers
+- Right of first refusal on any equity sale
+
+**Founders' agreement timeline:** I propose we engage [Burgeon Law / Spice Route / lawyer of our mutual choosing] within 14 days of agreeing this concept brief. Target sign date: 14 June 2026 — before WiseBot ships and before any external capital conversation begins.
+
+## What I commit to / What I need from you
+
+**I commit to:**
+- Stay backend by design, never undermine your role as public CEO of Wisetribes
+- Fund the venture at current burn until the angel round closes or 30 November 2026, whichever is earlier
+- Transfer all personally-held IP into the entity within 30 days of the founders' agreement
+- Make no equity, M&A, or strategic-direction decisions about Wisetribes without your written agreement
+- Pull my attention away from Wise Creator until the July pilot is closed and the angel round is in sight
+
+**I need from you:**
+- Sign the founders' agreement before the WiseBot ships on 15 June
+- Treat WiseClub Ventures Pvt Ltd as the legal home for everything Wisetribes — contracts, IP, accounts
+- Lead the July pilot with the conversion target (40% paid conversion) as the single highest-priority metric
+- Decline any external offer or partnership conversation that bypasses our reserved-matters list — even informal ones
+- Tell me, directly and early, anything about this brief or this venture you do not agree with
+
+## Risks we are betting against
+
+We share the same threat model. Names so we don't have to relitigate them every quarter.
+
+- **Free-to-paid conversion risk.** Indian B2B EdTech pilots historically convert at 5–15%. We target 40% by selecting only pilot schools where the principal has committed budget at the start.
+- **Hardware execution risk.** WiseBot ships 15 June. Slippage equals pilot delay. Falsifiable test in place for January 2027 to keep or kill humanoid V2.
+- **Big-tech disruption.** Google, OpenAI, Anthropic could launch a child-AI product. Our defence is parent trust, Indian language depth, and NCERT alignment — not technology superiority. We must not pretend otherwise.
+- **Founder-relationship risk.** This is real. We mitigate by paper, by communication norms, and by explicit reserved matters. We do not mitigate by hoping.
+- **Capital risk.** If the angel round slips past November, Abhishek's personal runway thins. We have a bridge plan via Foxscan dividend extraction. This is not a problem yet but we name it now so it does not become a surprise.
+- **Public-face risk.** Kajol is the public face. If we ever part ways, the brand needs continuity. We address this in the founders' agreement via brand-IP ownership and a 12-month transition covenant in either direction.
+
+## Sign-off path
+
+1. You read this. Mark it up. We meet within 7 days.
+2. We revise to v2 jointly. We agree on it.
+3. We engage the lawyer within 14 days of v2 sign-off.
+4. We sign the founders' agreement and execute all IP transfers by 14 June.
+5. WiseBot ships 15 June.
+6. July pilot launches.
+
+If at any step you disagree, we stop and resolve before moving forward. There is no version of this where we paper the legal agreement while still disagreeing about the business.
+
+---
+
+*— Abhishek*
+
+---
+
+## A few notes on how to use this
+
+**Send it as a Word doc, not a PDF.** She needs to be able to comment and redline. A PDF signals "final draft" and shuts down conversation.
+
+**Send it with a short personal note**, not just the attachment. Something like: *"This is my honest draft of where I think we are. I've tried to be specific so we can disagree on specifics, not on vague feelings. Mark it up — especially the role split, the equity numbers, and the money section. Let's meet [propose two slots] within the week."*
+
+**Do not negotiate over WhatsApp.** Anything she pushes back on, ask her to put it in the doc as a comment or send a written response. You want the negotiation in writing from day one — it sets the precedent for how reserved-matter decisions will be handled going forward.
+
+**Watch carefully for what she does NOT push back on.** Silence on equity, silence on IP transfer, silence on reserved matters — those are the gaps to probe in conversation. Sometimes the most important reaction is the one that doesn't come.
+
+**Expect her counter on the 65/30.** She will likely ask for 40% or 35%. Have your range pre-decided. My read: anywhere between 60/35 and 70/25 is defensible given who contributed what. Don't go below 60% for yourself — that's the line where Promoter control gets structurally weak. Don't go above 70% — that's the line where the CEO feels like a hireling, not a founder.
+
+**Two things I deliberately did NOT include**, that you should consider adding once you've thought about them:
+1. *A clause about what happens to her equity if Wisetribes is later spun out as a subsidiary.* I flagged it in the earlier message. Worth including.
+2. *A board-composition clause.* As Chairman you want board majority while private. She as CEO needs a board seat. Investor will take 1 seat at angel. So 3-person board: you (Chairman), Kajol (CEO), Investor. Specify this now.
+
+When you've sent it and she's responded, bring me the redline. That's the conversation where the actual founders' agreement gets built.
