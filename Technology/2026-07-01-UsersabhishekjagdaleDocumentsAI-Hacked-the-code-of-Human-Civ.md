@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Documents/AI Hacked the code of Human Civilization .doc"
 date: 2026-07-01
-time: 17:04
+time: 17:39
 category: Technology
 source: Claude AI
 ---
@@ -700,3 +700,25 @@ Want me to: **(a)** expand it toward full book length (add your own examples fro
 The file is saved to the same location: [AI Hacked the Code - Book Draft.docx](/Users/abhishekjagdale/Documents/AI%20Hacked%20the%20Code%20-%20Book%20Draft.docx). The Contents page and structure are updated to reflect the new sections.
 
 Want me to also add a short "About the Author" page, or start expanding any specific chapter with more real-world/India-specific examples?
+
+**USER:** start expanding any specific chapter with more real-world/India-specific examples
+
+**ASSISTANT:** I'll pick the three chapters where real, well-documented India examples land hardest on the book's thesis: **Chapter 6 (The Native Bureaucrats)**, **Chapter 7 (The Editors Who Never Sleep)**, and **Chapter 8 (The Instruments No Human Understands)**. Let me find their exact locations to insert new sections.
+
+**ASSISTANT:** Now Chapter 7's India section (WhatsApp/mob violence).
+
+**ASSISTANT:** Now Chapter 8's India section (IL&FS / NSE algorithmic trading).
+
+**ASSISTANT:** Now let's rebuild and verify.
+
+**ASSISTANT:** Builds clean — now ~13,200 words. I expanded three chapters with real, named India case studies that plug directly into the book's argument:
+
+**Chapter 6 — The Native Bureaucrats:** new section *"India: A Bureaucracy Built for This"* — Aadhaar as a trust-bridge whose failures already cut real people off from food and pensions, the Income Tax Department's 2020 Faceless Assessment Scheme (a government voluntarily removing humans from its own bureaucracy), and the Supreme Court's SUPACE AI research tool as a "first foothold."
+
+**Chapter 7 — The Editors Who Never Sleep:** new section *"India's Forwarding Machine"* — the 2018 WhatsApp-forward mob-lynching wave across multiple states, WhatsApp's five-chat forwarding cap (introduced in India first), and how India's closed, encrypted messaging networks make the "editor" even less visible and less accountable than an open social platform.
+
+**Chapter 8 — The Instruments No Human Understands:** new section *"India's Own Reckoning"* — the 2018 IL&FS shadow-banking collapse (~300 layered subsidiaries no auditor or rating agency saw through) and SEBI's long investigation into preferential algorithmic access at the NSE, both framed carefully as human-built complexity that previews what AI-native finance would inherit and enlarge.
+
+I kept every claim to well-documented public record and was careful not to overstate what was actually "AI" (e.g., IL&FS was human-engineered complexity, SUPACE is explicitly a research aid, not a decision-maker) — that honesty is part of what makes the parallel land.
+
+Want me to keep going with India examples in the remaining chapters (education/EdTech AI in Chapter 12, DPDP Act 2023 in Chapter 15), or shift focus to something else — like a full pass adding citations/endnotes for all the factual claims now in the book?
