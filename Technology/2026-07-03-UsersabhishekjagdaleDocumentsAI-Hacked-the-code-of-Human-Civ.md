@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Documents/AI Hacked the code of Human Civilization .doc"
 date: 2026-07-03
-time: 22:30
+time: 22:39
 category: Technology
 source: Claude AI
 ---
@@ -734,3 +734,35 @@ Want me to keep going with India examples in the remaining chapters (education/E
 **ASSISTANT:** Now let's add the Chapter 15 India policy section.
 
 **ASSISTANT:** Now let's update the TOC entries to reflect these enriched sections aren't new chapters (they're subsections, so TOC stays the same), then rebuild.
+
+**ASSISTANT:** Builds clean at ~13,850 words. Added two more India sections:
+
+**Chapter 12 — From Attention to Intimacy:** *"India's Children and Their New Companions"* — the rise and collapse of a major AI ed-tech tutoring app (engagement-engineered daily use, predatory sales tactics, later financial collapse) as a preview of AI's campaign for intimacy landing on children first, plus the AI-companion trend filling India's severe mental-health-professional shortage.
+
+**Chapter 15 — What to Do About It:** *"The Indian instance"* — the 2023 Digital Personal Data Protection Act as an incomplete-but-real start on "regulate the role," and RBI's 2022 Digital Lending Guidelines (issued after instant-loan-app harassment was linked to borrower suicides) as a concrete template for making a named human entity accountable for an algorithm's downstream harm.
+
+All five main-argument chapters (6, 7, 8, 12, 15) now carry real, India-specific case studies. The file is saved at [AI Hacked the Code - Book Draft.docx](/Users/abhishekjagdale/Documents/AI%20Hacked%20the%20Code%20-%20Book%20Draft.docx).
+
+Still on offer from before: a full citations/endnotes pass listing sources for every factual claim (original + new), or continuing India examples into Chapters 9–11 and the Conclusion if you want full coverage. Let me know which you'd like next.
+
+**USER:** Want full coverage
+
+**ASSISTANT:** Let me read the remaining chapters that don't yet have India content, so I can plant well-grounded additions.
+
+**ASSISTANT:** Now let's read Chapters 9–11, 13, and the Conclusion.
+
+**ASSISTANT:** Now let me read Chapter 13 and the Conclusion.
+
+**ASSISTANT:** Now I'll insert India-grounded material into the remaining chapters — the ancient-language philosophy chapters (9–11) and Chapter 14 get especially strong material since India's own linguistic and contemplative traditions map directly onto the book's arguments.
+
+**ASSISTANT:** Now Chapter 4 (Kumbh Mela) and Chapter 5 (demonetization).
+
+**ASSISTANT:** Now Chapters 9, 10, 11 — the philosophy-of-language chapters, where India's own linguistic and contemplative traditions fit naturally.
+
+**ASSISTANT:** Now Chapter 13 (IT/BPO irony) and Chapter 14 (Ramana Maharshi).
+
+**ASSISTANT:** Finally, the Conclusion — a unifying closing reference tying the India threads together.
+
+**ASSISTANT:** Let me re-read the exact current text of the Conclusion to get precise anchors.
+
+**ASSISTANT:** All ten insertions are done. Let's rebuild and verify.
