@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Documents/AI Hacked the code of Human Civilization .doc"
 date: 2026-07-03
-time: 22:39
+time: 23:03
 category: Technology
 source: Claude AI
 ---
@@ -766,3 +766,79 @@ Still on offer from before: a full citations/endnotes pass listing sources for e
 **ASSISTANT:** Let me re-read the exact current text of the Conclusion to get precise anchors.
 
 **ASSISTANT:** All ten insertions are done. Let's rebuild and verify.
+
+**ASSISTANT:** Builds clean at ~15,600 words. Every chapter in the book now carries a real, India-grounded example tied directly to its argument:
+
+| Chapter | India addition |
+|---|---|
+| 1 – Coffee Machine | Jio's 2016 data-price collapse as the mass substrate for algorithmic profiling |
+| 2 – Chess Master | Viswanathan Anand's real experience being overtaken by chess engines |
+| 4 – Million Strangers | Kumbh Mela (UNESCO-recognized) as cooperation built purely on shared myth |
+| 5 – Money Bridge | 2016 demonetisation as a real-time stress test of currency-as-shared-fiction |
+| 6 – Native Bureaucrats | Aadhaar, Faceless Assessment Scheme, SUPACE *(already added)* |
+| 7 – Editors Who Never Sleep | 2018 WhatsApp-forward lynchings *(already added)* |
+| 8 – Instruments No Human Understands | IL&FS collapse, NSE co-location case *(already added)* |
+| 9 – In the Beginning Was the Word | Rigveda's Vac Sukta and Panini's Ashtadhyayi as an ancient formal "code" |
+| 10 – Word and Flesh | Bhartrihari's sphota theory — meaning as a non-sequential flash |
+| 11 – Do We Think in Words? | Vipassana / S.N. Goenka lineage as a discipline for watching thought arise |
+| 12 – Attention to Intimacy | Ed-tech AI tutoring collapse, AI companions filling India's mental-health gap *(already added)* |
+| 13 – The Great Immigration | India's IT/BPO industry facing the same displacement logic it once profited from |
+| 14 – Stranger in Your Own Mind | Ramana Maharshi's self-inquiry ("Who am I?") |
+| 15 – What to Do About It | DPDP Act 2023, RBI Digital Lending Guidelines *(already added)* |
+| Conclusion | Closing line tying Panini, Bhartrihari, the Buddha, and Ramana Maharshi together as the book's answer |
+
+Every factual claim stays hedged where precision is genuinely uncertain (Kumbh attendance, exact IT-export figures) and sticks to well-documented public record elsewhere. File saved at [AI Hacked the Code - Book Draft.docx](/Users/abhishekjagdale/Documents/AI%20Hacked%20the%20Code%20-%20Book%20Draft.docx).
+
+Still on offer: a full citations/endnotes section listing sources for every factual claim in the book, front-to-back. Want that next?
+
+**USER:** Now connect with chat and help me design the book
+
+**ASSISTANT:** Now let's implement the interior typography/layout redesign in the build script — trade book trim size, mirrored margins, running heads, folios, chapter ornaments, small-caps chapter openings, and a copyright/imprint page.
+
+**ASSISTANT:** Now let's add the chapter ornament to `h1()` and small-caps chapter openings to `first_para()`.
+
+**ASSISTANT:** Now let's add the ornament to `h1()`.
+
+**ASSISTANT:** Now let's add a copyright/imprint page after the title page.
+
+**ASSISTANT:** Builds without errors. Let's sanity-check the XML structure to confirm headers/footers/sections/fields are well-formed before calling it done.
+
+**ASSISTANT:** Interior design implemented and verified. Now here's the back cover copy for the jacket designer.
+
+## Back Cover Copy
+
+**Blurb (main jacket copy):**
+
+> Every institution that runs the modern world — banks, courts, hospitals, newsrooms, parliaments — is built from the same raw material: words. For ten thousand years, humans were the only species that could read that code. That monopoly has just ended.
+>
+> Drawing on a landmark Oxford lecture by historian Yuval Noah Harari, *The Code of Civilization* argues that artificial intelligence is not a tool waiting for instructions — it is an agent, native to the world of language and bureaucracy we spent millennia building without knowing whom we were building it for. From a coffee machine that learns your habits to financial instruments no regulator can read, from mob violence spread by a forwarding button to a child's first AI teacher, this book follows the argument wherever it leads: into finance, law, education, intimacy, and finally into the silence just before your next thought becomes a sentence.
+>
+> This is not a book about robots taking over factories. It is about something quieter and stranger: the slow migration of judgment itself into hands that are not human — and what, if anything, remains ours once the words are no longer only ours to write.
+
+**Short jacket-flap version (if space is tight):**
+
+> AI didn't need to build an army to change the world. It only needed to learn to read. *The Code of Civilization* traces how artificial intelligence is quietly inheriting the language-built machinery of trust — money, law, bureaucracy, intimacy — that has run human civilization for millennia, and asks what's left for us once the code is no longer ours alone to write.
+
+**About the Author:**
+
+> Abhishek Varsha Jagdale is an entrepreneur and technology operator based in India, working at the intersection of business, education, and artificial intelligence. *The Code of Civilization* is his first book.
+
+**Placeholders for the designer:**
+- `[Advance praise quote — TBD]` — leave a slot for an endorsement once you have one; a single strong line from a known name does more work here than three from unknowns.
+- `[ISBN / barcode]` — bottom corner, standard placement.
+- `[Price]` — bottom corner, opposite the barcode.
+
+---
+
+### Summary of the design pass
+
+**Cover:** navy/gold mockup above — title in serif gold caps, a calligraphic-strokes-into-binary motif symbolizing the book's core metaphor, author name and Harari credit line at the base.
+
+**Interior** (in the [docx](/Users/abhishekjagdale/Documents/AI%20Hacked%20the%20Code%20-%20Book%20Draft.docx), rebuilt and verified):
+- Trade trim size 6×9 in, mirrored inside/outside margins for binding
+- Running heads (book title recto, your name verso) and folios, suppressed on the title page
+- A gold `· · ·` ornament under every chapter/section heading
+- Small-caps lead-in on every chapter's opening words — standard nonfiction convention
+- New copyright/imprint page after the title page
+
+One caveat: I can't visually render Word docs in this environment, so the header/footer/mirror-margin XML is verified structurally correct but not eyeballed — worth a quick look the first time you open it in Word, in case anything needs a nudge.
