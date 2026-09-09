@@ -1,7 +1,7 @@
 ---
 title: "Trading strategy where experienced traders ask people to invest money into tradi"
 date: 2026-09-09
-time: 20:05
+time: 20:07
 category: Technology
 source: Claude AI
 ---
@@ -262,3 +262,50 @@ Your number is now on a list. Expect two things:
 Tighten your WhatsApp privacy while you're in there — set profile photo, about, and last seen to **My Contacts** so unknown numbers can't profile you.
 
 One last thing: this was well-built. Real credentials, a real analyst's real thread, a real Nasdaq listing you could look up and verify. Every check you could run came back clean, because the only false element was which account typed the message. That's a hard one to catch, and $4,950 is a survivable price for learning where the seam was.
+
+**USER:** I used Vested
+
+**ASSISTANT:** Good — that's the answer I was hoping for. Let me confirm one thing that's material to your position.
+
+**ASSISTANT:** That closes the worst branch. Vested routes through **DriveWealth LLC**, an SEC-registered broker-dealer and FINRA member. So:
+
+- You own **1100 real LHSW shares**, held in your name
+- The money went through legitimate LRS channels
+- The group never had access to your account and doesn't now
+- Your total exposure is exactly the $4,950 you deployed — **there is no second stage**
+
+No fake dashboard, no withdrawal trap, no fee-to-release. You can verify it yourself: log into Vested and request the trade confirmation for the buy. It'll be a genuine DriveWealth execution.
+
+This matters because it changes the category. You weren't robbed — you were **sold to**. The operators exited their position into your buying at $4.50. That's a market transaction, which is why the loss is bounded and final rather than open-ended.
+
+## One fact about the position
+
+Not advice — but decision-relevant, and you should have it:
+
+LHSW did its 1-for-16 reverse split on **22 June 2026**, and trades at **$1.07** today.
+
+Under Nasdaq Rule 5810(c)(3)(A)(iv), as amended and SEC-approved in January 2025: a company that has effected a reverse split within the **prior one-year period** and then breaches the $1.00 minimum bid price is **not eligible for any compliance period**. Nasdaq issues a delisting determination directly — no automatic 180-day cure window. The company can appeal to a Hearings Panel, which stays the action while it's heard.
+
+LHSW is seven cents above that line, having just issued $11M of new stock at $1.44 into a $3.5M market cap.
+
+**I'm not going to tell you whether to sell or hold** — I'm not licensed for that and it's genuinely your call. But make it on the numbers above, with a SEBI-registered adviser or your CA if you want a second view, and not on anything said in that WhatsApp group.
+
+## Two compliance items worth handling
+
+**Schedule FA.** As an Indian resident holding foreign shares, you must disclose the LHSW position in Schedule FA of your ITR — **this applies even at a loss, and even if you exit.** Non-disclosure of foreign assets carries penalties under the Black Money Act (₹10 lakh), independent of the amount involved. Flag it to your CA now so it doesn't get missed in a year where the position is an embarrassment you'd rather forget. That's exactly how these get overlooked.
+
+**Loss set-off.** Foreign listed shares need 24 months for long-term treatment, so a realised loss here is a **short-term capital loss**. STCL can be set off against capital gains in the same year and carried forward for **8 years** — but only if your ITR is filed by the due date. Given you have other ventures with capital events, that carry-forward may be worth more to you than the ₹3.3L headline loss suggests. Worth a specific conversation with your CA rather than letting it lapse.
+
+## Still worth doing
+
+Export that WhatsApp chat today — the account safety question is closed, but the evidence question isn't, and those groups get deleted once the dump completes. Then file at cybercrime.gov.in and sec.gov/tcr, and send Northstar & Badcharts a note through their site so the real account can report the impersonation in its own replies.
+
+You'll be one of several hundred reports on this ticker. The ones with actual trade confirmations and WhatsApp exports are the ones that make a case buildable.
+
+---
+
+For what it's worth: the failure here wasn't judgment. Real analyst, real thread, real Nasdaq-listed company, real broker, real shares. Five things you could verify, all of which checked out. The single false element was which account in a reply chain typed the message — and X's reply section is engineered to make that hard to see.
+
+$4,950, contained, with a usable tax loss and no ongoing exposure. That's a cheap education in a scam that regularly takes people for ten times that.
+
+Sources: [Goodwin — New Nasdaq and NYSE delisting rules restrict reverse stock splits](https://www.goodwinlaw.com/en/insights/blogs/2025/02/new-nasdaq-and-nyse-delisting-rules-restrict-use-of-reverse-stock-splits), [Sullivan — Nasdaq minimum bid price compliance changes](https://www.sullivanlaw.com/viewpoints/nasdaq-changes-rules-regarding-minimum-bid-price-compliance-periods-and-restricts-the-use-of-reverse-stock-splits), [stockanalysis.com — LHSW](https://stockanalysis.com/stocks/lhsw/)
