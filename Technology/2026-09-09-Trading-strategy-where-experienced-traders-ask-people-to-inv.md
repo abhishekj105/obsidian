@@ -1,7 +1,7 @@
 ---
 title: "Trading strategy where experienced traders ask people to invest money into tradi"
 date: 2026-09-09
-time: 20:07
+time: 20:22
 category: Technology
 source: Claude AI
 ---
@@ -309,3 +309,96 @@ For what it's worth: the failure here wasn't judgment. Real analyst, real thread
 $4,950, contained, with a usable tax loss and no ongoing exposure. That's a cheap education in a scam that regularly takes people for ten times that.
 
 Sources: [Goodwin — New Nasdaq and NYSE delisting rules restrict reverse stock splits](https://www.goodwinlaw.com/en/insights/blogs/2025/02/new-nasdaq-and-nyse-delisting-rules-restrict-use-of-reverse-stock-splits), [Sullivan — Nasdaq minimum bid price compliance changes](https://www.sullivanlaw.com/viewpoints/nasdaq-changes-rules-regarding-minimum-bid-price-compliance-periods-and-restricts-the-use-of-reverse-stock-splits), [stockanalysis.com — LHSW](https://stockanalysis.com/stocks/lhsw/)
+
+**USER:** @"/Users/abhishekjagdale/Downloads/WhatsApp Chat - Patrick Karim.zip"
+here is the chat
+
+**ASSISTANT:** Let me extract and go through it.
+
+**ASSISTANT:** I've read the full chat. **Stop — before anything else: do not send the money you just raised.** Let me confirm the positions from your screenshots.
+
+**ASSISTANT:** I've now read everything. **The $3,846 loss is not the problem. It's the bait.** The actual emergency is in your last two messages.
+
+## Stop this now
+
+This morning you told them:
+
+> "I have sold about 40% of my Gold & silver portfolio. Also few of my acquaintances are ready to sell off... By next this weekend I should have significant amount ready"
+
+Against the portfolio you disclosed ($50k physical gold + $15k ETF), that's roughly **$26,000 liquidated** — five times what you've lost so far — plus other people's money, and you've told them it lands this weekend.
+
+**Do not transfer it. Do not place any trade they send. Do not tell them it's ready.**
+
+That money is still yours. Nothing is lost yet. The gold sale is reversible in substance — you can rebuy — and the only irreversible act would be sending it.
+
+## Your actual position
+
+From your own screenshots:
+
+| | |
+|---|---|
+| Invested | **$5,023.47** (1100 shares, avg $4.57) |
+| Value at that screenshot | $1,521.56 |
+| At today's $1.07 | ~$1,177 |
+| Loss | **~$3,846 (−76%)** |
+
+No AXTI position — that one never funded. Your holding is 100% LHSW. That part is contained, real, and in your name.
+
+*(Minor: the chat says INDmoney, you told me Vested. Doesn't change anything — both are legitimate. Just confirm which when you pull the trade confirmations.)*
+
+## The proof it isn't Patrick Karim
+
+This is the detail that settles it beyond argument.
+
+**Patrick Karim's entire professional identity is gold, silver, and commodities.** That's the whole brand — Northstar & Badcharts is a precious-metals and macro shop.
+
+Now read what this account did:
+
+- **16/08, 10:08 PM:** *"my suggestion would be to gradually reduce your gold allocation to around 10%–30%"*
+- **24/08, 5:57 PM:** *"You haven't started trimming your gold positions yet, right?"*
+- **24/08, 6:40 PM:** *"reallocating part of the capital toward growth-oriented investment opportunities"*
+
+**A gold analyst systematically talking a client out of gold.** That is not a difference of opinion — it is the opposite of everything the real man publishes. And it wasn't incidental: it's the single most persistent thread in eight weeks of conversation. Converting your hard assets into directable cash *was the operation*. LHSW was just the container.
+
+Note also that you asked directly on 16/08 — *"Am I talking to Patrick or any representative?"* — and got: **"You are speaking directly with me, not a representative."** That's the impersonation, stated in writing.
+
+## Everything else in your own chat
+
+- **The "45-Day Trading Challenge"** graphic: *$100,000 → $1,000,000, 10X, 50 spots, limited seats.* No analyst on earth publishes this. And note the number — **$100,000**. You disclosed a ~$110k net worth on 16/08. The "challenge" arrived on 21/08, sized to your entire balance sheet.
+- **The "Trading Record"** — 140.11%, every closed trade a winner, the two losers marked "Holding" with no percentage. Fabricated, and constructed by someone who knows what a fake track record needs to omit.
+- **"we have our own related resources and channels to identify opportunities and position before major catalysts"** (21/08) — an explicit claim of inside information. A real adviser would never write that sentence; it's a confession.
+- **Position sizing: "50%"**, then *"you can use your full available buying power."* Disqualifying on its own.
+- **You asked for a stop-loss twice on 28/08. He refused both times** — *"I will notify you regarding stop-loss orders."* Withholding the exit is deliberate.
+- **"4.50 is the lowest price I'm expecting today"** — precise foreknowledge of the intraday low on a $3.5M nano-cap. You can't forecast that. You can only *cause* it.
+- **08/09, 7:53 PM: "This message was deleted"** — immediately after you asked whether 1100 was on top of the 500. He slipped and scrubbed it.
+- **09/09, 12:53 AM:** *"significant short-selling pressure... compiling the losses reported by all members... send me a screenshot showing your current loss."* He is inventorying what each victim has left, to size the recovery ask.
+
+## What arrives next
+
+He said he'd "provide an update on the outcome tomorrow." That's today. Expect one of:
+
+- An "averaging down" instruction at these levels
+- A "recovery trade" that needs the fresh capital
+- A club/challenge fee, or a move to a platform he specifies
+- Sympathy and patience for a week, then a bigger ask
+
+**Anything that requires new money is the close.** The stock closed down another 18.9% today; there is nothing to recover for them. The eight weeks of weekend chat, the Luke Gromen conversation, the candlestick joke — that was the cost of building the trust that makes this weekend's transfer feel reasonable.
+
+## Today, in order
+
+1. **Do not send the money.** Don't confirm it's ready. Don't announce you're stopping either — just go quiet.
+2. **Warn your acquaintances immediately.** Before anything else. If they've already sold assets, they need to know today, and it will be much worse for everyone if they find out after transferring. This is the most time-critical item on the list.
+3. **Block and report the number** in WhatsApp, and report the impersonating account on X.
+4. **Notify Northstar & Badcharts** through northstarbadcharts.com — typed directly. Send them the chat. They're being used as bait and the real account can act on it far more effectively than you can.
+5. **File at cybercrime.gov.in** with the export you just made, and at **sec.gov/tcr** — you have an unusually complete evidence set, including the deleted-message artifact and the $4.50 price call.
+6. **Talk to your CA** about the gold sale — it's a capital gains event you triggered under fraudulent instruction, and about the LHSW short-term capital loss and Schedule FA disclosure.
+
+## One thing to take seriously
+
+They have your name, that you run your own venture, your city, your full portfolio breakdown including **$50,000 in physical gold**, and your stated ability to raise from an HNI network. That was harvested deliberately on 16/08.
+
+Think about where that gold is stored, and don't discuss holdings on WhatsApp again — with anyone.
+
+---
+
+On the LHSW position itself: still your call, still not advice from me. But it's now a rounding error in this. You caught this at $3,846 instead of $26,000-plus with friends' money attached, and that difference is entirely because you asked the question this week instead of next.
