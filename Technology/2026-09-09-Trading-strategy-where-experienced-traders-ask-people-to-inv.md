@@ -1,7 +1,7 @@
 ---
 title: "Trading strategy where experienced traders ask people to invest money into tradi"
 date: 2026-09-09
-time: 19:57
+time: 20:05
 category: Technology
 source: Claude AI
 ---
@@ -199,3 +199,66 @@ Everything from my previous message still applies, and step 4 above is the urgen
 And whatever the verification returns: don't add to the position on their word, and treat anyone who now approaches you offering to *recover* the loss as the same operation running its second pass.
 
 Sources: [Northstar & Badcharts (official)](https://northstarbadcharts.com/), [Patrick Karim — Traders Union profile](https://tradersunion.com/persons/patrick-karim/), [@badcharts1 on X](https://twitter.com/badcharts1), [Kinesis — Patrick Karim guest profile](https://kinesis.money/special-guests/patrick-karim/)
+
+**USER:** I saw comment on x on real @badcharts1  but unable to find the now. There was link of whats app that I joined
+
+**ASSISTANT:** That closes the question. You weren't advised by Patrick Karim — you were caught by an impersonator operating in his replies.
+
+## What that mechanism actually is
+
+Scam operations camp in the comment sections of real finance accounts. They clone the display name and profile photo of the account owner, reply to his posts within seconds of publication, and drop a WhatsApp or Telegram link. To anyone scrolling the thread it looks like the analyst himself offering a free group.
+
+The comment was *under* his post. It was never *from* him.
+
+**And the fact that you can't find it now is confirmation, not a problem.** Those replies get deleted within days — either the scammer rotates the link before it's reported, X removes it, or the account gets suspended. Legitimate comments don't evaporate. The disappearance is the evidence.
+
+So: Patrick Karim is clear. He's a victim of this too — his reputation is the bait being used, and he has no way to stop people replying to his own posts.
+
+## Do this now, before it's gone
+
+The WhatsApp group will be deleted or you'll be removed once they're done. **Export it today.**
+
+Open the group → tap the group name → scroll down → **Export Chat** → **Include Media** → send it to your own email.
+
+Then screenshot separately:
+- The group info page showing all admin numbers with country codes
+- Each admin's profile (photo, name, "about")
+- Any message telling you to buy LHSW at 4.5, and the 1100 share count
+- Any payment instructions or platform links
+
+Also check whether **disappearing messages** is switched on in that group. If it is, the evidence is being auto-erased on a timer and you have days at most.
+
+Don't leave the group or confront them until the export is done.
+
+## The question I still need answered
+
+You haven't said this yet, and it's the one that determines how bad this is:
+
+**Where did your $4,950 actually go?**
+
+- **To your own broker account** — INDmoney, Vested, IBKR, or an LRS transfer to a US broker in your name → you own 1100 real LHSW shares, the loss is real but it's capped at what you put in, and there's no further exposure.
+- **To a platform, app, or account the group told you to use** → the shares may not exist at all, the balance you see may be rendered text, and the full deposit is at risk. Test it today with a small withdrawal. Any fee, tax, "verification deposit," or minimum-balance condition to release your own money means it was never there.
+
+Everything else depends on which of those it is.
+
+## What that group actually was
+
+Worth knowing so the next approach doesn't land: in these groups the overwhelming majority of "members" are operators. The enthusiasm, the profit screenshots, the people saying they're adding more — that's staff. The real participants are usually a small minority who can't see each other. Nothing in that chat was organic social proof.
+
+## Report it
+
+- **X** — report the impersonating account for impersonation if you can still find it in your history or notifications
+- **Patrick Karim / Northstar & Badcharts** — message them through northstarbadcharts.com (typed directly) with a screenshot. He'll want it. Reply-section impersonation is something the real account can report with far more weight than you can.
+- **cybercrime.gov.in** — file with the WhatsApp numbers and the export. Cross-border, but the numbers and payment rails are what get mapped across cases.
+- **sec.gov/tcr** — LHSW is a US-listed issuer; coordinated promotion of it is squarely in SEC jurisdiction, and the WhatsApp evidence is exactly what they use to build these cases.
+
+## What comes next
+
+Your number is now on a list. Expect two things:
+
+1. **A pivot in the group** — "hold, it recovers," "average down," or a fresh opportunity to make it back. The dump is finished; the stock closed down another 18.9% today. There is nothing left to recover for them.
+2. **A recovery approach** — someone contacting you in weeks or months offering to retrieve your lost funds, possibly claiming to be a lawyer, a regulator, or a fraud investigator. Same operation, second pass, run against the same victim list. Nobody legitimate cold-contacts you about money you lost.
+
+Tighten your WhatsApp privacy while you're in there — set profile photo, about, and last seen to **My Contacts** so unknown numbers can't profile you.
+
+One last thing: this was well-built. Real credentials, a real analyst's real thread, a real Nasdaq listing you could look up and verify. Every check you could run came back clean, because the only false element was which account typed the message. That's a hard one to catch, and $4,950 is a survivable price for learning where the seam was.
