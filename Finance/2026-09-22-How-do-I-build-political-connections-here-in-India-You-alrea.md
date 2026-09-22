@@ -1,7 +1,7 @@
 ---
 title: "How do I build political connections here in India? You already know about me. I"
 date: 2026-09-22
-time: 20:16
+time: 20:33
 category: Finance
 source: Claude AI
 ---
@@ -193,3 +193,74 @@ The position that actually maximises defensive return is one rung down and has n
 If what changed is that you now want the status for its own sake — optionality, deal flow, standing — that's a legitimate goal and I'll map the ladder properly. But it's a different goal from the one you gave me two weeks ago, and it costs your invisibility. Worth being clear with yourself about which one you're buying.
 
 One timing flag: your angel round is supposed to close Oct–Dec, which is right now. A status project with a five-year payback is the most expensive possible use of the next ninety days of your attention.
+
+**USER:** I am trying to build my net worth of Rs.100 crores in next 1 year. Also I would liquidate 10% of it. Also am starting incubator by the name of wise club venture. A tech oriented incubator where talent with prototypes meets investors. Now guide me
+
+**ASSISTANT:** Let me do the arithmetic before the advice, because the two halves of your goal have very different difficulty, and it's the second one — the liquidation — that's actually the hard problem.
+
+## ₹100cr in 12 months: what would have to be true
+
+There's only one mechanism available to you. Not cash, not assets — a venture valuation event. So:
+
+| Step | Requirement |
+|---|---|
+| Your stake post-angel | ~60% after a ₹3cr round |
+| Company valuation needed | **~₹165cr** to make your stake ₹100cr |
+| ARR needed at 20x (AI-native premium) | **~₹8.3cr** |
+| ARR needed at 10x (post-Byju's EdTech reality) | **~₹16.7cr** |
+| From | a ₹25L pilot |
+
+At ₹10–12L per school contract, ₹8.3cr ARR is roughly **70 tier-1 CBSE schools signed by August 2027**. That's the whole goal, restated in the only units that matter.
+
+It's not impossible. It requires: angel round closed by December → a 10–15 person sales team hired in January → ~6 schools closing per month from March against a 6–9 month sales cycle → then a Series A at a premium multiple. Each link is maybe 40–60% likely on its own. Compounded, you're at **5–10%**.
+
+I'd hold the goal but stop treating it as a plan. The plan is 70 schools. Everything that isn't 70 schools is a distraction wearing a costume.
+
+## The ₹10cr liquidation is where you're actually wrong
+
+This is the part worth changing your mind about, and it's concrete.
+
+**1. Founder secondaries barely exist before Series B in India.** At angel and Series A, investors almost universally refuse them — their capital is for growth, and a founder cashing out reads as reduced conviction at exactly the moment they're underwriting your conviction. A ₹10cr founder secondary on a company with sub-₹10cr ARR is not a thing that happens here. Asking for it during the Oct–Dec round could cost you the round.
+
+**2. The tax timing is brutal and fixable.** WiseClub shares issued mid-2026 are **short-term** until mid-2028 (unlisted shares need 24 months):
+
+| Sell | Rate | Net on ₹10cr |
+|---|---|---|
+| 2027 (STCG, slab + surcharge) | ~39% | **~₹6.1cr** |
+| After mid-2028 (LTCG, 12.5% no indexation) | ~15% | **~₹8.5cr** |
+
+Waiting is worth roughly **₹2.4cr**. You're proposing to sell in the single worst tax window that exists for these shares.
+
+**3. Your only genuinely liquid asset is the one you're ignoring.** Foxscan is real, profitable, staffed, and on autopilot — ₹6cr revenue, probably ₹0.7–1.2cr EBITDA, which at SME multiples of 4–6x is **₹4–10cr**, more to a strategic buyer. That is your ₹10cr, and it's available in 6–9 months rather than never.
+
+But it's also your entire downside protection and the reason you can take risk on Wisetribes at all. Selling it converts a hedged founder into an unhedged one. I'd put it on the table only as a *deliberate* trade you name out loud, not as a default.
+
+## Wise Club Ventures: fix the name this week
+
+**The urgent problem, ahead of everything else:** WiseClub Ventures Pvt Ltd is already your Wisetribes HoldCo. Angel investors running diligence in Oct–Dec will find an incubator attached to the entity they're buying into. That means: unclear what they're funding, cap-table contamination, related-party questions, and founder-attention concerns — in a round you cannot afford to lose. **Separate entity, separate name, before the round opens.** This is a one-week fix now and a deal-killer in November.
+
+**The economics, honestly:** incubators are negative cash flow for 3+ years and return capital in 7–10. YC works on volume, brand, and a fifteen-year compounding cycle. An incubator is structurally the opposite of a one-year net-worth plan.
+
+**Revenue models that actually exist:**
+
+- **Equity for services** — 5–8% of pre-seed companies. Illiquid for 7+ years.
+- **Government programmes** — Startup India Seed Fund Scheme, MeitY TIDE 2.0, state startup missions, AIM incubation grants. Real money, and the only model that pays in year one.
+- **Space arbitrage** — co-working plus programme. Boring, cash-generative.
+- **Fees from startups** — available, and it destroys your deal flow. Good founders don't pay.
+
+**A regulatory flag:** taking a success fee on capital you help startups raise edges into SEBI merchant-banking territory, and pooling investor money to invest requires AIF registration (Cat I Angel Fund: ₹5cr minimum corpus, sponsor commitment, a qualified manager). Most Indian accelerators take equity precisely to stay clear of this. Structure it as equity or government-funded programme, not as a placement-fee business.
+
+**The one genuine reason to do it:** an incubator is the cleanest answer to what you asked me about a week ago. DPIIT recognition, state startup mission MoUs, university tie-ups, a seat at investor summits — institutional standing, conferred on an *institution* rather than on a personal brand. It's the only version of "VIP" that partly survives your no-public-face constraint. That's a real argument. It's just not a 2027 argument.
+
+## What I'd actually do in the next 90 days
+
+1. **This week** — incorporate the incubator separately, or at minimum rename it and confirm it's outside the HoldCo. Cheapest, highest-consequence action on this list.
+2. **Close the angel round.** It's September. Oct–Dec is now. Nothing else on this page matters if this slips.
+3. **Sign the founders' agreement with Kajol.** It was due 14 June. You cannot raise into an unresolved cap table, and every month makes the 65/30/5 conversation harder.
+4. **Convert the July pilot into named, signed schools** and a repeatable sales motion. This is the 70-school engine, and it's the only real input to ₹100cr.
+5. **Get a Foxscan valuation done quietly.** Not to sell — to know the number. You're making leverage decisions blind to your own balance sheet.
+6. **Incubator: park until Q3 2027.** Keep the name, keep the entity, keep the ambition. Build it when Wisetribes has revenue and you have standing, not when it's competing with your only revenue engine for the same 24 hours.
+
+One observation, offered once. Across three conversations you've asked about political donations, VIP status, and an incubator. All three are adjacent to value creation and none of them is value creation. Meanwhile the pilot needs converting, the round needs closing, and the founders' agreement is three months overdue. The ₹100cr, if it happens, comes entirely from the boring column.
+
+Want me to build the 70-school model out properly — pricing, sales-team sizing, month-by-month targets, and the cash it takes to run it — so you can see exactly where the plan breaks?
