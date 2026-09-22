@@ -1,7 +1,7 @@
 ---
 title: "Create a 3D interactive, cinematic website experience for the inauguration of th"
 date: 2026-09-22
-time: 21:26
+time: 21:42
 category: Technology
 source: Claude AI
 ---
@@ -330,3 +330,43 @@ cd "/Users/abhishekjagdale/Desktop/Cloude Finance/AJ Vision/foxscan-experience" 
 ```
 
 The browser pane is hidden on your side at the moment, so my last checks were structural rather than visual — say the word and I'll put it back on screen for a walkthrough.
+
+**USER:** Yes
+
+**ASSISTANT:** Putting it back on screen and walking the journey.
+
+**ASSISTANT:** The diagnostic layer is blooming too wide — tightening it before we go on:
+
+**ASSISTANT:** Better — flagged zones now sit on a legible building. On to the inspection:
+
+**ASSISTANT:** Scan complete — markers pinned to the real wall, causes ranked. Now the guided audit:
+
+**ASSISTANT:** All twelve evidence inputs in. Root-cause engine:
+
+**ASSISTANT:** Now the report — this is where your four captures land:
+
+**ASSISTANT:** Painter readiness with the real instrument thresholds:
+
+**ASSISTANT:** Drone survey on the real façade passes:
+
+**ASSISTANT:** Walked the whole journey on screen. What it showed:
+
+**Opening** — logo, Golden Ember headline, the building cycling through all seven intelligence layers.
+
+**Intelligence engine** — 11 context datasets resolving into the AI core, all seven trained cities selectable, Pune context populated, "trained on 40,000+ structured inspection cases."
+
+**Use Case 01** — pressed *Scan the wall* live. The camera screen woke with its own OSD (ε 0.95, moving spot temperature, 18–38 palette bar), the scan line swept the real photograph, the thermal layer revealed onto the wall behind the inspector's hand, four markers pinned themselves — Δt −2.8 °C, moisture anomaly 34.7%, ingress pathway, high-risk zone 1.9 m² — and the causes ranked 67 / 21 / 12.
+
+**Guided audit** — four captures taken by hand, each a different real frame, each lighting its instrument with a real reading: hygrometer 18.7% RH, adhesion 0.41 MPa, rebound 21 N/mm², thermal 34.7%. Eight field answers took evidence to 12/12.
+
+**Root cause** — resolved at 94% confidence from the 12 inputs, with treatment sequence and product categories under *Diagnose First. Product Second.*
+
+**Report** — generated with your four captures embedded as the imaging strip, ember-bordered root-cause box, and the PDF / Share / WhatsApp / Email row.
+
+**Painter** — substrate scanned thermally, four gauges red against threshold, NOT READY with ₹84,000–1,20,000 rework avoided.
+
+**Drone** — real thermography beside the real 48 MP defect pass with AI boxes, drone specs, telemetry, 401.88 m² net across 21 defects.
+
+One fix landed mid-walkthrough: the diagnostic-intelligence layer was blooming into large orange blobs that swallowed the building. It now keeps windows and structure legible with a tight flagged zone — visible in the second screenshot above.
+
+The only frame I didn't capture is the closing panel — the Browser pane was hidden at that point and a hidden pane stops compositing, so the capture came back blank rather than the page being broken (the DOM checks out at that scroll position). Bring the pane back up and I'll show you that last frame.
