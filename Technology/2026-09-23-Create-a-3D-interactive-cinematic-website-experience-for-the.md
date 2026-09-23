@@ -1,7 +1,7 @@
 ---
 title: "Create a 3D interactive, cinematic website experience for the inauguration of th"
 date: 2026-09-23
-time: 16:45
+time: 17:04
 category: Technology
 source: Claude AI
 ---
@@ -417,3 +417,14 @@ Make changes as per the attached doc and relaunch the webpage
 **9 · The ten-step flow** and **10 · design direction** — the flow section lays out all ten steps; capabilities carry Available today / Pilot · in development / Future badges throughout.
 
 Two things worth your attention before launch: the competitor table needs your validated claims dropped in, and the reinforcement-learning, quote/invoice and project modules are all presented as in-development — tell me if any of those should be labelled differently for the inauguration.
+
+**USER:** REsume
+
+**ASSISTANT:** Back up and running at **http://127.0.0.1:8123** — the server had been stopped, so I restarted it. The v2 build loads clean: 16 sections, 11 comparison rows, 10 flow steps, condensation model live, no console errors.
+
+Everything from the change brief is in place and verified. The two things still open from my last message, in case you want either handled now:
+
+1. **Competitor claims** — Bosch and FLIR columns show "to verify" on every row except thermal image capture, exactly as the brief requires. They stay that way until you give me validated claims to drop into `CMP` in [app.js](foxscan-experience/app.js).
+2. **In-development labelling** — the reinforcement-learning layer, quote/invoice and project workspace are all currently badged *Pilot · in development*. Say the word if any of those should read differently for the inauguration.
+
+If "resume" meant something else — a section you want reworked, or the walkthrough continued on screen — tell me which and I'll pick it up there.
