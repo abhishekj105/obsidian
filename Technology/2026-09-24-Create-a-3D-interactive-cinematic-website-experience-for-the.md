@@ -1,7 +1,7 @@
 ---
 title: "Create a 3D interactive, cinematic website experience for the inauguration of th"
 date: 2026-09-24
-time: 11:45
+time: 12:11
 category: Technology
 source: Claude AI
 ---
@@ -536,3 +536,39 @@ cd "/Users/abhishekjagdale/Desktop/Cloude Finance/AJ Vision/foxscan-experience" 
 ## Hosted link updated
 
 **https://claude.ai/artifact/UNAmJ8gjSW6UcXRDEjpVMn** — Version 2, same URL, autoplay included. I also notice the sharing is now set to **anyone with the link**, so guests no longer need a Claude account to open it — worth confirming on your side before you put it on a QR code.
+
+**USER:** share a file which can open locally for this and shareable
+
+**ASSISTANT:** Right — one self-contained file that opens by double-click and can be sent to anyone. Building it with everything inlined, including Three.js so it works offline:
+
+**ASSISTANT:** Assets cut from 1.8 MB to 578 KB. Now testing the single file actually works from `file://` — especially the photo captures, which is where a local file usually breaks:
+
+**ASSISTANT:** Captures work in the standalone build too. Adding the build to the README and sending you the file:
+
+**ASSISTANT:** Sent — **FoxScan-Experience.html**, 2.5 MB, the entire experience in one file.
+
+## What's in it
+
+Stylesheet, application, Three.js and all 17 images inlined as data URIs. **Double-click and it runs** — no server, no internet, nothing to install. Autoplay is on, so it starts walking itself through all 16 sections and runs every demo along the way.
+
+Forward it however you like: WhatsApp, email, Drive, AirDrop, a USB stick at the venue. It behaves identically on the other person's machine.
+
+I verified on the built file specifically, not just the source: Three.js loads from inside the file, all 17 images resolve, all 16 sections render, autoplay runs, and the photo captures work. That last one matters — the capture step writes to a canvas, and a local file normally breaks it through canvas tainting. Because the images are data URIs the canvas stays clean, so captures produce real thumbnails rather than blanks.
+
+One small caveat: it still pulls the Google Fonts stylesheet when online. With no connection it falls back to Helvetica Neue — which is FoxScan's own fallback face per the brand guideline, so it stays on-brand either way.
+
+**Rebuild after any change:**
+
+```bash
+cd "/Users/abhishekjagdale/Desktop/Cloude Finance/AJ Vision/foxscan-experience" && python3 build-standalone.py
+```
+
+It's a build artefact — edit `index.html` / `styles.css` / `app.js`, then rebuild.
+
+You now have three ways to show this:
+
+| | Best for |
+|---|---|
+| **FoxScan-Experience.html** | Handing to someone, offline venues, a laptop driving a screen |
+| **https://claude.ai/artifact/UNAmJ8gjSW6UcXRDEjpVMn** | A link — now set to anyone-with-the-link |
+| `python3 serve.py` | Editing, since it never serves a cached build |
