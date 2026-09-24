@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Downloads/Scrolling Webpage.zip' @'/Users/abhishekjagda"
 date: 2026-09-24
-time: 10:23
+time: 10:32
 category: Technology
 source: Claude AI
 ---
@@ -190,3 +190,29 @@ npx vercel
 ```
 
 Then run `npx vercel --prod` once the preview looks right.
+
+**USER:** <pasted_content id="89e5">
+Last login: Mon Aug  3 14:06:28 on console
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Air:~ abhishekjagdale$ npx vercel
+-bash: npx: command not found
+MacBook-Air:~ abhishekjagdale$
+</pasted_content id="89e5">
+
+**ASSISTANT:** Your Mac doesn't have Node.js, which is why `npx` wasn't found. The Vercel command-line tool needs it to run, so I have to install it before I can deploy.
+
+**Can I install Node.js with Homebrew?** Homebrew is already on your Mac. The command is `brew install node`, which downloads the official Node.js package from Homebrew (about 70–100 MB) and adds `node`, `npm` and `npx`.
+
+Once you say yes, I'll:
+
+1. Install Node.
+2. Build the site from the `Scrolling Webpage` folder (`npm run build:web`) to check it compiles.
+3. Run `npx vercel` to put up a **preview deployment** and send you the link.
+4. Wait for you to check the preview before promoting it to production with `npx vercel --prod`.
+
+**You'll need to do one step yourself:** Vercel will ask you to log in. It opens a browser page or shows a code, and you finish signing in there. I can't enter your Vercel credentials for you.
+
+The project's README notes that Vercel's free Hobby plan is for non-commercial use only. A site advertising FoxScan's services counts as commercial, so Vercel expects it to be on the Pro plan.
