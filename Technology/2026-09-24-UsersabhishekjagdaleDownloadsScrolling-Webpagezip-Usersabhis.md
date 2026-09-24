@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Downloads/Scrolling Webpage.zip' @'/Users/abhishekjagda"
 date: 2026-09-24
-time: 10:32
+time: 10:38
 category: Technology
 source: Claude AI
 ---
@@ -216,3 +216,33 @@ Once you say yes, I'll:
 **You'll need to do one step yourself:** Vercel will ask you to log in. It opens a browser page or shows a code, and you finish signing in there. I can't enter your Vercel credentials for you.
 
 The project's README notes that Vercel's free Hobby plan is for non-commercial use only. A site advertising FoxScan's services counts as commercial, so Vercel expects it to be on the Pro plan.
+
+**USER:** yes
+
+**ASSISTANT:** Node is installed. Now building the site:
+
+**ASSISTANT:** The real build passes. The chunk-size warning is just the 3D library, and it was there before. Checking whether Vercel is already logged in on this Mac:
+
+**ASSISTANT:** Waiting for the login check to finish.
+
+**ASSISTANT:** The check is stuck with no output. It's probably sitting at a login prompt I can't answer. I'll stop it and run the deploy in your Terminal panel instead, so you can finish the Vercel sign-in there.
+
+**ASSISTANT:** That notification is just the check I stopped. Starting the preview deploy in your Terminal panel:
+
+**ASSISTANT:** Still downloading the Vercel tool. The warnings are harmless.
+
+**ASSISTANT:** As expected, Vercel needs you to sign in. I'm starting the login in the same Terminal tab:
+
+**ASSISTANT:** Nothing is deployed yet. Vercel needs you to sign in before it will upload anything.
+
+**Your step:**
+
+1. Open **https://vercel.com/oauth/device?user_code=PJWP-GKCD** in your browser.
+2. Sign in with the Vercel account that owns the `foxscan-experience-centre` project.
+3. Approve the device.
+
+The code is also shown in the Terminal tab "vercel login + deploy". Once you approve it, that tab will create the preview deployment by itself. The project is already linked, so it shouldn't ask any setup questions.
+
+So far, Node.js is installed through Homebrew and the site builds cleanly with Vercel's build command (`npm run build:web`).
+
+Tell me once you've approved it. I'll read the terminal, send you the preview link, and after you've checked it, promote it to production with `vercel --prod`.
