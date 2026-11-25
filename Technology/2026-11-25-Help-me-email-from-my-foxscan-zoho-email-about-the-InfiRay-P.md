@@ -1,7 +1,7 @@
 ---
 title: "Help me email from my foxscan zoho email about the InfiRay P2 Pro (256×192, ≤50 "
 date: 2026-11-25
-time: 17:43
+time: 17:44
 category: Technology
 source: Claude AI
 ---
@@ -93,3 +93,11 @@ To fix it:
 3. If your Foxscan mail is on Zoho's global servers (it opens at mail.zoho.com, not mail.zoho.in), tell me and I'll switch to that address.
 
 If you'd rather skip this, I can give you the finished subject and body as plain text to paste into Zoho yourself.
+
+**USER:** Which browser
+
+**ASSISTANT:** I meant the **in-app browser**. It's a browser panel inside this Claude desktop app, separate from Chrome or Safari. It's currently on the Zoho sign-in page but hidden, so you'd need to bring it back on screen with the **Browser** button or tab at the top-right of this session window, then sign in there.
+
+**An easier option:** if you're already signed in to Zoho Mail in **Chrome**, I can work in your Chrome through the Claude in Chrome extension instead. You wouldn't need to sign in again. I'd open a new message in your Foxscan inbox to sales@infiray.com, fill in the subject and body, and stop before Send.
+
+Reply **"Chrome"** or **"in-app"** and I'll go ahead.
