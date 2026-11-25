@@ -1,7 +1,7 @@
 ---
 title: "Help me email from my foxscan zoho email about the InfiRay P2 Pro (256×192, ≤50 "
 date: 2026-11-25
-time: 17:40
+time: 17:43
 category: Technology
 source: Claude AI
 ---
@@ -74,3 +74,11 @@ Sources:
 - [InfiRay P2 Pro spec sheet (PDF)](https://ar.infiray.com/uploads/file/p2-pro-thermal-camera-for-smartphone.pdf)
 - [IRAY Technology Alibaba store, smartphone thermal camera listing](https://iraytek.en.alibaba.com/product/62431786067-820173893/Multifunctional_T2L_Type_C_Android_Mobile_Imager_Smartphone_Phone_Infrared_Thermal_Imaging_Camera_For_Sale.html)
 - [InfiRay on Wikipedia](https://en.wikipedia.org/wiki/InfiRay)
+
+**USER:** Yes, set it up
+
+**ASSISTANT:** Opening Zoho Mail in the browser pane now.
+
+**ASSISTANT:** Zoho Mail is open in the browser pane, but it's showing the sign-in page at **accounts.zoho.in**. Please sign in there with your Foxscan Zoho account yourself; I won't enter passwords for you.
+
+Once you're in, I'll open a new message to **sales@infiray.com**, fill in the subject and body from the draft, and stop. The bracketed placeholders (what Foxscan does, quantity tiers, first-order size, your signature) will stay highlighted for you to fill in. You'll review it and press Send yourself.
