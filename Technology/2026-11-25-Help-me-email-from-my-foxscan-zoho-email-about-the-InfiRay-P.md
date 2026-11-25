@@ -1,7 +1,7 @@
 ---
 title: "Help me email from my foxscan zoho email about the InfiRay P2 Pro (256×192, ≤50 "
 date: 2026-11-25
-time: 17:44
+time: 17:45
 category: Technology
 source: Claude AI
 ---
@@ -101,3 +101,14 @@ If you'd rather skip this, I can give you the finished subject and body as plain
 **An easier option:** if you're already signed in to Zoho Mail in **Chrome**, I can work in your Chrome through the Claude in Chrome extension instead. You wouldn't need to sign in again. I'd open a new message in your Foxscan inbox to sales@infiray.com, fill in the subject and body, and stop before Send.
 
 Reply **"Chrome"** or **"in-app"** and I'll go ahead.
+
+**USER:** Use safari browser
+
+**ASSISTANT:** The draft is open in Safari, in your Zoho Mail as **abhishek.jagdale@foxscan.in**, addressed to **sales@infiray.com**. Nothing has been sent. Safari's tab title shows the subject and your account, so the compose window opened, but I couldn't see inside it to check that the body came through.
+
+Before you send:
+- **Fill in the brackets:** what Foxscan does, the quantity tiers, first-order size and timing, and your signature details.
+- **Check the body:** if any of it is missing or looks garbled, the full text is on your clipboard. Select the body area and press Cmd+V.
+- **Sender name:** it's going out under your own name and address. If you'd rather keep a lower profile, change the From address or the signature now.
+
+Then press **Send** yourself.
