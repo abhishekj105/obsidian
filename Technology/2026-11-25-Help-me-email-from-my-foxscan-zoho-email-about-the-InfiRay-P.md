@@ -59,3 +59,18 @@ Best regards,
 - **Quantity tiers:** keep them realistic. Quoting 5,000 units when you mean 300 gets you a price you won't actually be offered.
 
 I can't send this for you because Zoho Mail isn't connected here. If you give me the recipient address, I can open Zoho Mail in the in-app browser and put this in a compose window for you to review and send. I'll stop before the Send button.
+
+**USER:** Find recepient address
+
+**ASSISTANT:** Send it to **sales@infiray.com**. Phone: +86 400-998-3088.
+
+That address and number come from InfiRay's own P2 Pro spec sheet, hosted on their regional site (ar.infiray.com). I couldn't check them against their main contact page because the site's security certificate had expired when I tried. The address is the right one in substance, but it's a general sales inbox, not a dedicated OEM/ODM contact. I found no published address for OEM/ODM inquiries.
+
+**Backup route:** InfiRay's parent company, IRAY Technology Co., Ltd., has an official Alibaba store that lists the smartphone thermal cameras with "Customized support: OEM". If sales@ is slow, an RFQ (request for quote) sent through that store usually gets to an export sales rep within 24 to 48 hours. You can also send both at once.
+
+Avoid resellers (Newegg sellers, Global Sources shops). They can't quote OEM/ODM terms or license the SDK.
+
+Sources:
+- [InfiRay P2 Pro spec sheet (PDF)](https://ar.infiray.com/uploads/file/p2-pro-thermal-camera-for-smartphone.pdf)
+- [IRAY Technology Alibaba store, smartphone thermal camera listing](https://iraytek.en.alibaba.com/product/62431786067-820173893/Multifunctional_T2L_Type_C_Android_Mobile_Imager_Smartphone_Phone_Infrared_Thermal_Imaging_Camera_For_Sale.html)
+- [InfiRay on Wikipedia](https://en.wikipedia.org/wiki/InfiRay)
