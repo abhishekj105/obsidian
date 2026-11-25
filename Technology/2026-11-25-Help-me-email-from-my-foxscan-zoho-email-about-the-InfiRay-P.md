@@ -82,3 +82,14 @@ Sources:
 **ASSISTANT:** Zoho Mail is open in the browser pane, but it's showing the sign-in page at **accounts.zoho.in**. Please sign in there with your Foxscan Zoho account yourself; I won't enter passwords for you.
 
 Once you're in, I'll open a new message to **sales@infiray.com**, fill in the subject and body from the draft, and stop. The bracketed placeholders (what Foxscan does, quantity tiers, first-order size, your signature) will stay highlighted for you to fill in. You'll review it and press Send yourself.
+
+**USER:** Signed in
+
+**ASSISTANT:** I reloaded Zoho Mail and it still shows the sign-in page at accounts.zoho.in, so the sign-in didn't reach my browser. The browser pane is also hidden right now. You probably signed in in Chrome or the Zoho app, and that session isn't shared with the in-app browser.
+
+To fix it:
+1. Show the browser pane in this app. It's the Browser panel beside the chat.
+2. Sign in to your Foxscan Zoho account there.
+3. If your Foxscan mail is on Zoho's global servers (it opens at mail.zoho.com, not mail.zoho.in), tell me and I'll switch to that address.
+
+If you'd rather skip this, I can give you the finished subject and body as plain text to paste into Zoho yourself.
