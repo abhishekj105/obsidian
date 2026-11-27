@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Downloads/Foxscan Pune Thermal Camera Integration Short"
 date: 2026-11-27
-time: 19:43
+time: 19:53
 category: Technology
 source: Claude AI
 ---
@@ -127,3 +127,35 @@ Claude does not execute trades or move money. Budgeting and accounting apps (Qui
 I can't enter passwords for you. Once you're signed in, I'll send the 3 emails with Anirudh in CC, submit the Vadzo enquiry form and send the 5 LinkedIn connection requests. I'll also log every send in a tracker.
 
 Reply "Signed in" when you're done.
+
+**USER:** Signed in
+
+**ASSISTANT:** Both sign-ins worked. Next I'll close the leftover Google sign-in popup and start composing.
+
+**ASSISTANT:** Progress: I'm in Zoho Mail. The Shalaka email has its recipients in, and I'm filling in the subject and body.
+
+**ASSISTANT:** The text landed in the Cc field, so I'm clearing it and retyping it in the body.
+
+**ASSISTANT:** Body is in. Now the recipients and subject.
+
+**ASSISTANT:** Everything checks out. Sending the Shalaka email.
+
+**ASSISTANT:** "Mail sent" ✓ (Shalaka). Next is eInfochips, using the same process.
+
+**ASSISTANT:** The red badge is just the contact's initials avatar, and the address is correct. Sending.
+
+**ASSISTANT:** The eInfochips email is sent ✓. Next is L4B Software.
+
+**ASSISTANT:** All 3 emails are sent ✓. Next is the Vadzo web form.
+
+**ASSISTANT:** I've sent all 3 emails from abhishek.jagdale@foxscan.in, each with anirudh.jagtap@foxscan.in in CC, and Zoho confirmed "Mail sent" for each one:
+
+1. **Shalaka Connected Devices** (info@shalaka.com), addressed to Hrishikesh
+2. **eInfochips** (marketing@einfochips.com), with a request to pass it to their Pune camera team
+3. **L4B Software** (info@l4b-software.com)
+
+Zoho added your usual email signature to each message automatically. It says Urbanroof Etrade Pvt Ltd rather than Foxscan, so you may want to change it before the next round.
+
+The Vadzo web form and the 5 LinkedIn connection requests haven't gone out yet. A Google sign-in popup from when you logged in is still open in the browser pane. While it's open, the browser won't let me go to any other page.
+
+Close that popup and reply "Closed it", and I'll do the Vadzo form and the LinkedIn requests next.
