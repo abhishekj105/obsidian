@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Downloads/Foxscan Pune Thermal Camera Integration Short"
 date: 2026-11-27
-time: 19:58
+time: 20:05
 category: Technology
 source: Claude AI
 ---
@@ -209,3 +209,11 @@ LinkedIn only allows 200 characters per note, not 300, so I shortened the approv
 - I didn't contact Micro Embedded, Pune Technology Lab or PCL Calibration Lab because I found no usable contact for them. I couldn't even confirm that Pune Technology Lab exists. The tracker sets follow-up dates of 2 Dec for the emails and 4 Dec for LinkedIn.
 
 Should I contact PCL Calibration Lab through IndiaMART, or leave it for now?
+
+**USER:** Not now
+
+**ASSISTANT:** OK, I'll leave PCL Calibration Lab for now; it's marked "Pending decision" in the tracker.
+
+Two follow-ups are on your calendar:
+- **2 Dec:** check for replies to the 3 emails and the Vadzo form. Shalaka's numbers are in the tracker if you'd rather call.
+- **4 Dec:** check whether the LinkedIn requests were accepted. When Sachin accepts, send him the message I drafted for him.
