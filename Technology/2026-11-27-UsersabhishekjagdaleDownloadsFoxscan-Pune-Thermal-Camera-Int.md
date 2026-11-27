@@ -1,7 +1,7 @@
 ---
 title: "@'/Users/abhishekjagdale/Downloads/Foxscan Pune Thermal Camera Integration Short"
 date: 2026-11-27
-time: 19:53
+time: 19:58
 category: Technology
 source: Claude AI
 ---
@@ -159,3 +159,53 @@ Zoho added your usual email signature to each message automatically. It says Urb
 The Vadzo web form and the 5 LinkedIn connection requests haven't gone out yet. A Google sign-in popup from when you logged in is still open in the browser pane. While it's open, the browser won't let me go to any other page.
 
 Close that popup and reply "Closed it", and I'll do the Vadzo form and the LinkedIn requests next.
+
+**USER:** Closed it
+
+**ASSISTANT:** Progress: the emails are sent. The Vadzo form didn't confirm my submission, so I'm checking which field it rejected.
+
+**ASSISTANT:** Still on the Vadzo form. Its "Product Category" dropdown wouldn't accept my input, so I'm selecting it with the keyboard.
+
+**ASSISTANT:** Vadzo shows "Thanks for submitting!" ✓. Moving on to LinkedIn, where I'll find each person first.
+
+**ASSISTANT:** Found Siddhesh, who is a 2nd-degree connection. Sending the connection request with a note.
+
+**ASSISTANT:** LinkedIn limits notes to 200 characters (not 300), and your account has only 3 personalized invites left this month. I'll shorten the notes and check their lengths.
+
+**ASSISTANT:** Siddhesh: request sent with a note (it now shows "Pending") ✓. Next, I'm searching for Paresh Tillu.
+
+**ASSISTANT:** Progress: Siddhesh's request is sent. I'm adding a note to Paresh Tillu's invitation now.
+
+**ASSISTANT:** "Invitation sent to Paresh" ✓. Next is Aniket Mullur at Nuvologic.
+
+**ASSISTANT:** Confirmed: he's a Director at Nuvologic Electronics. Connecting with a note, which uses your last personalized invite.
+
+**ASSISTANT:** Progress: 2 LinkedIn invites are sent. Aniket's note didn't stick, so I'm retyping it.
+
+**ASSISTANT:** The first attempt had worked after all, so the note is now doubled. Clearing it and typing it once.
+
+**ASSISTANT:** Hrishikesh's request shows "Pending" ✓. For Sachin, the first result matches your document (Pune City, independent embedded consultant). Connecting through his profile.
+
+**ASSISTANT:** All sent. Writing the tracker now.
+
+**ASSISTANT:** I've sent the 3 emails, the Vadzo web form and 5 LinkedIn connection requests, and logged them all in [Foxscan_Thermal_Outreach_Tracker.csv](Foxscan_Thermal_Outreach_Tracker.csv). Every send got a confirmation on screen.
+
+**Email (Zoho, from abhishek.jagdale@foxscan.in, Anirudh in CC)**
+- Shalaka Connected Devices (info@shalaka.com), addressed to Hrishikesh
+- eInfochips (marketing@einfochips.com)
+- L4B Software (info@l4b-software.com). This address came from a business directory, not L4B's own site, so watch for a bounce.
+
+**Vadzo Imaging website form:** submitted and shows "Thanks for submitting!" It asks them to reply to you with Anirudh in CC.
+
+**LinkedIn connection requests (all pending)**
+- **With a note:** Siddhesh Dalvi, Paresh Tillu, and Aniket Mullur (his profile confirms he's a Director at Nuvologic).
+- **Without a note:** Hrishikesh Kamat and Sachin Salunkhe.
+
+LinkedIn only allows 200 characters per note, not 300, so I shortened the approved notes. Your account also had just 3 notes left for the month. Hrishikesh already has the email. For Sachin, send him his drafted message once he accepts.
+
+**Things to know**
+- The browser pane wouldn't let me fill Zoho's Cc field and email body reliably at first. I deleted that first unsent draft and redid it. Nothing went out half-finished.
+- Your Zoho signature says "Founder & Director, Urbanroof Etrade Pvt Ltd", so these Foxscan emails went out with it. Its logo image is also broken; Zoho warned about it on every new email.
+- I didn't contact Micro Embedded, Pune Technology Lab or PCL Calibration Lab because I found no usable contact for them. I couldn't even confirm that Pune Technology Lab exists. The tracker sets follow-up dates of 2 Dec for the emails and 4 Dec for LinkedIn.
+
+Should I contact PCL Calibration Lab through IndiaMART, or leave it for now?
